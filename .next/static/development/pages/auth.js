@@ -73,7 +73,7 @@ var authIndexPage = function authIndexPage() {
 
 /***/ }),
 
-/***/ 3:
+/***/ 1:
 /*!*************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fauth&absolutePagePath=%2Fhome%2Fyako%2FDesktop%2FProjects%2Fbasic-nextjs%2Fpages%2Fauth%2Findex.js ***!
   \*************************************************************************************************************************************************/
@@ -96,5 +96,5 @@ module.exports = dll_2adc2403d89adc16ead0;
 
 /***/ })
 
-},[[3,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=auth.js.map
