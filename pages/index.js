@@ -13,7 +13,7 @@ const indexPage = () => (
       </Link>
     </p>
     <button onClick={() => Router.push("/auth")}>Go to auth</button>
-    <User name="Yako" age="21" />
+  
   </div>
 );
 
